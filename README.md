@@ -14,4 +14,5 @@ Sample website with plenty of files for demos
 git.training
 
 please fork this repo. and then issue pull requests for review
-this is a text 
+this is a text , more text from my feature branch
+this is a text , more text from my feature branch
