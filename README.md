@@ -18,3 +18,5 @@ this is a text , more text from my feature branch
 this is a text , more text from my feature branch
 
 stashing 
+
+udating line after stash
