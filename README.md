@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 
 ## Copyright
 git.training
+
+please fork this repo. and then issue pull requests for review
