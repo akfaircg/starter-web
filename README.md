@@ -1,5 +1,5 @@
 # Overview
-> This is a sample web service which can be used in YaaS user stories. you can check those user stories on Jira under YaaS component.
+> This is a sample wishlist service which can be used in YaaS user stories. you can check those user stories on Jira under YaaS component.
 
 ## Prerequisites
 > In order to build this project you need to have **maven** installed on your computer. To download maven [click here](https://maven.apache.org/download.cgi#).
@@ -22,4 +22,4 @@
 >  `mvn jetty:run`
 >    
 >   you can test it over this URL  `http://localhost:8080`
->*
+>* To run it on the cloud you can check the How to deploy service project using cloud foundry document over [here](https://faircg.atlassian.net/browse/UP-58).
