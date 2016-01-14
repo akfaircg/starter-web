@@ -27,4 +27,4 @@
 ## Expected Outcome
 > If you followed the instructions on the Run project section then your outcome should be similar to the following:
 
-![Alt text](https://drive.google.com/open?id=0B6HUUkAGRHHcVzExSXZVVFhLejg)
+![Alt text](wishlistservicescreenshot.jpg)
