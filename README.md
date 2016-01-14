@@ -22,4 +22,9 @@
 >  `mvn jetty:run`
 >    
 >   you can test it over this URL  `http://localhost:8080`
->* To run it on the cloud you can check the How to deploy service project using cloud foundry document over [here](https://faircg.atlassian.net/browse/UP-58).
+>* To run it on the cloud you can check the attached How to deploy service project using cloud foundry document over [here](https://faircg.atlassian.net/browse/UP-58).
+
+## Expected Outcome
+> If you followed the instructions on the Run project section then your outcome should be similar to the following:
+
+![Alt text](https://drive.google.com/open?id=0B6HUUkAGRHHcVzExSXZVVFhLejg)
